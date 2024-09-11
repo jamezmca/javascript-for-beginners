@@ -1,6 +1,6 @@
 # JavaScript Beginner Course | Get Started with JavaScript in 2 Hours 🔥
 
-Welcome my friends to this **JavaScript For Beginners** course that I am super excited to have live on the (YouTube channel)[https://www.youtube.com/smoljames]!
+Welcome my friends to this **JavaScript For Beginners** course that I am super excited to have live on the [YouTube channel](https://www.youtube.com/smoljames)!
 
 This beginner course is suitable for you if:
 
