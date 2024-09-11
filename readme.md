@@ -1,12 +1,14 @@
-# JavaScript Beginner Course | Get Started with JavaScript in 2 Hours 🔥
+# JavaScript Beginner Course 
+
+## Get Started with JavaScript in 2 Hours 🔥
 
 Welcome my friends to this **JavaScript For Beginners** course that I am super excited to have live on the [YouTube channel](https://www.youtube.com/smoljames)!
 
 **This beginner course is suitable for you if:**
 
-✅ You have no experience with JavaScript and want to get started 
-✅ Have dabbled with JavaScript but want to improve your foundational understanding 
-✅ Want to feel confident and comfortable coding in the JavaScript ecosystem 
+✅ You have no experience with JavaScript and want to get started  
+✅ Have dabbled with JavaScript but want to improve your foundational understanding  
+✅ Want to feel confident and comfortable coding in the JavaScript ecosystem  
 ✅ Set yourself up with the skills and knowledge you need to eventually become a JavaScript master
 
 The course is self is specifically designed to be easy and efficient, and saves you from spending 10+ hours just to learn the basics and get up and running. We achieve this by following a curriculum teaches you the 20% of material that does 80% of the leg work, so you can start coding in JavaScript as soon as possible!
@@ -80,4 +82,5 @@ As mentioned above, this curriculum is designed to teach you all the foundationa
 If you enjoy the course, be sure to ⭐️ **star** the repo!
 
 Cheers,
+
 James
