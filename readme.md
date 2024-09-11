@@ -15,17 +15,17 @@ The course is self is specifically designed to be easy and efficient, and saves 
 
 If you enjoy the course, be sure to check out the full version which contains **9 hours of material, numerous practice questions and examples, and also 5 unique and exciting portfolio projects**.
 
-* [The Complete JavaScript Course]()
+* [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course-zero-to-hero/?referralCode=F6229ABBDBD16EB43FA4)
 
 ## How to Begin
 
 You can get started with this course totally for free by click the YouTube link below ⬇️
 
-* [JavaScript Beginner Course | Get Started with JavaScript in 2 Hours]()
+* [JavaScript Beginner Course | Get Started with JavaScript in 2 Hours](https://youtu.be/-ihpNX0EODc)
 
 To complete the course, you need **not** have any experience with JavaScript. We start from the very beginnering.
 
-It is recommend that you download the JavaScript curriculum file which can be found [here](). 
+It is recommend that you download the JavaScript curriculum file which can be found [here](https://github.com/jamezmca/javascript-for-beginners/blob/main/curriculum_template.js). 
 
 ## The JavaScript Beginner Course Curriculum
 
