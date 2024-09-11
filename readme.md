@@ -2,7 +2,7 @@
 
 Welcome my friends to this **JavaScript For Beginners** course that I am super excited to have live on the [YouTube channel](https://www.youtube.com/smoljames)!
 
-This beginner course is suitable for you if:
+**This beginner course is suitable for you if:**
 
 ✅ You have no experience with JavaScript and want to get started 
 
